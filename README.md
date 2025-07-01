@@ -16,7 +16,7 @@ uv run convert-model --use-8bit
 
 # Check system only
 uv run convert-model --check-only
-
+```
 
 # 변환된 모델을 Ollama에서 서비스하기
 
